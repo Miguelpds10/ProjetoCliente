@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\2mod\Desktop\Projeto_Asp Net SQL\ProjetoCliente
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/2mod/Desktop/Projeto_Asp Net SQL/ProjetoCliente/Views/Cliente/CadCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDYWRDbGllbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/2mod/Desktop/Projeto_Asp Net SQL/ProjetoCliente/Views/Cliente/Cliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDbGllbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

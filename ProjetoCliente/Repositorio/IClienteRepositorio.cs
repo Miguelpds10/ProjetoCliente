@@ -6,5 +6,8 @@ namespace ProjetoCliente.Repositorio
     {
         //CRUD 
         IEnumerable<Cliente> TodosClientes();
+        void Cadastrar(Cliente cliente);
+
     }
+
 }

@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ProjetoCliente.Models;
 using ProjetoCliente.Repositorio;
 
 namespace ProjetoCliente.Controllers
@@ -23,5 +24,21 @@ namespace ProjetoCliente.Controllers
         {
             return View(_clienteRepositorio.TodosClientes());
         }
+        public IActionResult CadCliente() {
+
+           //retorna a Página
+            return View();
+        }
+        //Página Cadastro Cliente que envia os dados(post)
+        [HttpPost]
+        public IActionResult CadCliente(Cliente cliente)
+        {
+            //metodo cadastra 
+            _clienteRepositorio.Cadastrar(cliente);
+
+            //redireciona para index
+            return RedirectToAction(nameof(Cliente));
+        }
     }
 }
+
