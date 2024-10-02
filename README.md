@@ -1,1 +1,1 @@
-Projeto realizado durante a Aula de Dsenvolvimento de Sistemas na Etec Prof. Basilides de Godoy, Onde eu utilzei ASP.NET e MySQL(Banco de Dados).
+Projeto realizado durante a Aula de Desenvolvimento de Sistemas na Etec Prof. Basilides de Godoy, Onde eu utilizei ASP.NET e MySQL(Banco de Dados).
